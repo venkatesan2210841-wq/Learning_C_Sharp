@@ -1,4 +1,7 @@
 <Solution>
+  <Folder Name="/L07/">
+    <Project Path="L07/P01/P01.csproj" />
+  </Folder>
   <Project Path="L01/L01.csproj" />
   <Project Path="L02/L02.csproj" />
   <Project Path="L03/L03.csproj" />
