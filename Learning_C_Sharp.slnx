@@ -6,4 +6,5 @@
   <Project Path="L05/L05.csproj" />
   <Project Path="L06/L06.csproj" />
   <Project Path="L06/T06/T06.csproj" />
+  <Project Path="L07/L07.csproj" />
 </Solution>
