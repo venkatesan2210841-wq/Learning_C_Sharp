@@ -4,4 +4,5 @@
   <Project Path="L03/L03.csproj" />
   <Project Path="L04/L04.csproj" />
   <Project Path="L05/L05.csproj" />
+  <Project Path="L06/L06.csproj" />
 </Solution>
